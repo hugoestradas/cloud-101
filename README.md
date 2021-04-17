@@ -13,4 +13,4 @@ Instructions:
 
 AWS ec2 Instance:
 1. Open in your text editor the 'aws' folder.
-2. 
+2. Go to

@@ -1,5 +1,5 @@
 Cloud Practice ☁️ 💻
-Amazon Web Services and Microsoft Azure
+Amazon Web Services and Microsoft Azure.
 
 Prerequisites:
 * You need to install aws-cli in your local machine.
